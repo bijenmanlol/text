@@ -35,6 +35,7 @@ section {
 }
 
 #color-scheme-selector {
-    margin: 1em;
+    padding: 1em;
+    width: fit-content;
 }
 
