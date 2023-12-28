@@ -6,6 +6,7 @@ html, body {
 }
 
 html {
+    display: none;
     transition: 0.5s;
 }
 

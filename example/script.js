@@ -14,6 +14,8 @@ if(localStorage.getItem("color-scheme") == "dark"){
     document.getElementById("light").style.display = "none";
 }
 
+document.getElementsByTagName("html")[0].style.display = "inline";
+
 document.getElementById("color-scheme-selector").addEventListener("click", function() {
     if(localStorage.getItem("color-scheme") == "dark"){
         localStorage.setItem("color-scheme", "light");
