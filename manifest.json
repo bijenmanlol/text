@@ -25,10 +25,10 @@
         "purpose": "maskable"
       }
     ],
-    "id": "/",
-    "start_url": "/",
+    "id": "/text",
+    "start_url": "/text",
     "background_color": "#121212",
-    "display": "standalone",
+    "display": "minimal-ui",
     "scope": "/",
     "theme_color": "#121212",
     "description": "This website exists to store text files to send to people.",
